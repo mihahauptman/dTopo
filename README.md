@@ -5,4 +5,4 @@ Izris topografskih načrtov v BricsCad-u.
 [dTopo Manual](https://mihahauptman.github.io/dTopo/)
 
 ## Inštalacija
-[Download dTopo.zip](./dTopo.zip)
+[Download dTopo.zip](https://github.com/mihahauptman/dTopo/archive/refs/heads/dtopo.zip)
