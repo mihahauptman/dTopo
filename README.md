@@ -1,5 +1,5 @@
 # dTopo
-Izris topografskih načrtov v BricsCad-u.
+Izris geodetskih načrtov v BricsCAD-u.
 
 ## Navodila
 [dTopo Manual](https://mihahauptman.github.io/dTopo/)
